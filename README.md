@@ -19,6 +19,11 @@ Install
 ```
 yum install autoconf automake zlib-devel openssl-devel expat-devel cyrus-sasl-devel
 ```
+  for Oracle Linux 8.x
+```
+yum install autoconf automake zlib-devel openssl-devel expat-devel cyrus-sasl-devel gcc-c++ pcre-devel
+```
+
   for Debian/Ubuntu, do
 ```
 sudo apt-get install build-essential zlib1g-dev libexpat1-dev openssl libsasl2-dev
