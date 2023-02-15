@@ -19,7 +19,7 @@ Install
 ```
 yum install autoconf automake zlib-devel openssl-devel expat-devel cyrus-sasl-devel
 ```
-  for Oracle Linux 8.x
+  for Oracle Linux >= 8.6 (docker pull oraclelinux:8.6)
 ```
 yum install autoconf automake zlib-devel openssl-devel expat-devel cyrus-sasl-devel gcc-c++ pcre-devel
 ```
